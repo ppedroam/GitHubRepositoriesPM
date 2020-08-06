@@ -1,0 +1,30 @@
+PODS:
+  - Cosmos (21.0.0)
+  - Nimble (8.0.5)
+  - Quick (2.2.0)
+  - SDWebImage (5.6.0):
+    - SDWebImage/Core (= 5.6.0)
+  - SDWebImage/Core (5.6.0)
+
+DEPENDENCIES:
+  - Cosmos
+  - Nimble
+  - Quick
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - Nimble
+    - Quick
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  SDWebImage: 21b19f56b4226cdfe3aefe4e6848dc43ed129a86
+
+PODFILE CHECKSUM: 5d8de0035b9d6526ef3cfa1026acd768539439ea
+
+COCOAPODS: 1.9.3
