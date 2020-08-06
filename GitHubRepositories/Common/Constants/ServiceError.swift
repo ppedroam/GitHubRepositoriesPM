@@ -8,15 +8,6 @@
 
 import Foundation
 
-//public enum ServiceError: Error {
-//  static let parsing = NSError(domain: "parsingError", code: 0, userInfo: nil)
-//  static let failure = NSError(domain: "failureError", code: 10, userInfo: nil)
-//  static let wrongJson = NSError(domain: "wrongJsonError", code: 20, userInfo: nil)
-//  static let noConnection = NSError(domain: "noConnection", code: 40, userInfo: nil)
-//  static let invalidURL = NSError(domain: "noInternet", code: 50, userInfo: nil)
-//
-//}
-
 public enum ServiceError: Error {
   case parsing
   case failure
